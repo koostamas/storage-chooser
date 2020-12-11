@@ -2,9 +2,9 @@
 
 ![SC Features](http://i.imgur.com/nmqPJok.gif)
 
-| **`Documentation`** | **`Version`** |
+| **`Version`** |
 |-----------------| --------------|
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://ashishshekar.com/projects/sc/) | [![](https://jitpack.io/v/codekidX/storage-chooser.svg)](https://jitpack.io/#codekidX/storage-chooser) |
+| [![](https://jitpack.io/v/koostamas/storage-chooser.svg)](https://jitpack.io/#koostamas/storage-chooser) |
 
 A pretty and simple directory chooser and file picker library for 4.4+ devices. This library was created to be included in [OpenGApps App](https://play.google.com/store/apps/details?id=org.opengapps.app). There are too many storage chooser out there but this one is too materially :stuck_out_tongue: . Easy to implement and does not take a lot of your valueable time in setting-up all the other necessary things that every developer seeks, like
 
@@ -33,7 +33,7 @@ Add this to your root build.gradle file under repositories:
 
 Add this to your app level build.gradle as dependency:
 
-    com.github.codekidX:storage-chooser:2.0.4.4
+    com.github.koostamas:storage-chooser:2.0.4.4.1
 
 Add this to your gradle.properties file:
 
